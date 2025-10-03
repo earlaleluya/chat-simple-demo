@@ -27,13 +27,11 @@ This implementation teaches:
 
 1. **Start the Receiver** (in first terminal):
    ```powershell
-   cd "c:\Users\Earl Keifer\Desktop\coe128"
    python chat_receive.py
    ```
 
 2. **Start the Sender** (in second terminal):
    ```powershell
-   cd "c:\Users\Earl Keifer\Desktop\coe128"
    python chat_send.py
    ```
 
@@ -43,7 +41,6 @@ This implementation teaches:
 
 Run only the sender to create and send messages:
 ```powershell
-cd "c:\Users\Earl Keifer\Desktop\coe128"
 python chat_send.py
 ```
 
